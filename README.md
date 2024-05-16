@@ -1,0 +1,2 @@
+# laitkor.com
+new repo
